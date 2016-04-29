@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/homker/Simple/issues"
   },
-  "homepage": "https://github.com/homker/Simple#readme"
+  "homepage": "https://github.com/homker/Simple#readme",
+  "devDependencies": {
+    "babel-core": "^6.7.7",
+    "babel-loader": "^6.2.4",
+    "react": "^15.0.1",
+    "webpack": "^1.13.0"
+  }
 }
