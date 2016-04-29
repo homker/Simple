@@ -1,0 +1,24 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "a simple website controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homker/Simple.git"
+  },
+  "keywords": [
+    "website",
+    "state",
+    "controller"
+  ],
+  "author": "homker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/homker/Simple/issues"
+  },
+  "homepage": "https://github.com/homker/Simple#readme"
+}
